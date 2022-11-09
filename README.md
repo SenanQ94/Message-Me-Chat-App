@@ -1,16 +1,13 @@
 # messageme_app
 
-A new Flutter project.
+## Messenger application
 
-## Getting Started
+![Screenshot_20221106_155729](https://user-images.githubusercontent.com/115164036/200938609-4ca1b01d-44c4-4188-a613-1a09a00bb2b2.jpg)
 
-This project is a starting point for a Flutter application.
+![Screenshot_20221106_155759](https://user-images.githubusercontent.com/115164036/200938656-7b247e68-95ee-43b5-95cf-2c03c3005ec1.jpg)
 
-A few resources to get you started if this is your first Flutter project:
+![Screenshot_20221109-202831](https://user-images.githubusercontent.com/115164036/200938676-76c0aadc-ef28-4e67-b502-5e670028383f.jpg)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![Screenshot_20221106-155831](https://user-images.githubusercontent.com/115164036/200938897-f0ff9b8e-3525-4f5b-8b56-242713bd04c9.jpg)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_20221109_203013](https://user-images.githubusercontent.com/115164036/200938723-2eb18c63-0d36-4e48-b4d1-e4f9399a89a5.jpg)

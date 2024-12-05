@@ -10,6 +10,13 @@
 - **Push Notifications**: Get notified of new messages even when the app is closed.
 - **Simple UI**: Clean and intuitive design for easy navigation and use.
 
+## Tech Stack:
+- **Frontend**: Flutter
+- **Backend**: Firebase
+  - Firebase Authentication
+  - Firestore for real-time database
+  - Firebase Cloud Messaging for push notifications
+
 ## Screenshots:
 Here are some screenshots of the app in action:
 
@@ -21,12 +28,6 @@ Here are some screenshots of the app in action:
   <img src="https://user-images.githubusercontent.com/115164036/200938723-2eb18c63-0d36-4e48-b4d1-e4f9399a89a5.jpg" width="48%" />
 </div>
 
-## Tech Stack:
-- **Frontend**: Flutter
-- **Backend**: Firebase
-  - Firebase Authentication
-  - Firestore for real-time database
-  - Firebase Cloud Messaging for push notifications
 
 ## Getting Started:
 To try the app, download the repository, set up your Firebase project, and run the app to start chatting with friends and other users. Simple and effective communication at your fingertips!
